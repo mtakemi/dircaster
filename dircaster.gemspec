@@ -18,4 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency "ruby-mp3info"
+  gem.add_dependency "mp4info"
 end
